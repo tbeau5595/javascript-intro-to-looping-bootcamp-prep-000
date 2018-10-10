@@ -1,3 +1,3 @@
 function forloop(array) {
-  for ( let i ===)
+  for ( let i = 0)
 }
