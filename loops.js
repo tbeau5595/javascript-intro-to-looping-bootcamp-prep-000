@@ -1,1 +1,1 @@
-function forloop
+function forloop(array)
