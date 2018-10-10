@@ -6,5 +6,5 @@ function forloop(array) {
       array.push( I am ${i} strange loops.)
     }
   }
-  return
+  return array;
 }
