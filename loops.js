@@ -10,5 +10,5 @@ function forLoop(array) {
 }
 
 function whileloop(n) {
-  let countdown = n 
+  let countdown = n;
 }
